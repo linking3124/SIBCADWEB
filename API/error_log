@@ -1,0 +1,85 @@
+[09-Mar-2018 04:43:54 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/u6416981/public_html/API/index.php on line 7
+[09-Mar-2018 05:00:18 UTC] PHP Notice:  Undefined index: id_daerah in /home/u6416981/public_html/API/login_calon.php on line 47
+[09-Mar-2018 07:20:04 UTC] PHP Notice:  Undefined index: id_daerah in /home/u6416981/public_html/API/login_calon.php on line 47
+[11-Mar-2018 00:51:31 UTC] PHP Notice:  Undefined index: id_daerah in /home/u6416981/public_html/API/login_calon.php on line 47
+[11-Mar-2018 16:43:57 UTC] PHP Notice:  Undefined index: id_daerah in /home/u6416981/public_html/API/login_calon.php on line 47
+[12-Mar-2018 09:32:16 UTC] PHP Notice:  Undefined index: id_daerah in /home/u6416981/public_html/API/login_calon.php on line 47
+[12-Mar-2018 09:50:08 UTC] PHP Notice:  Undefined index: id_daerah in /home/u6416981/public_html/API/login_calon.php on line 47
+[12-Mar-2018 09:52:42 UTC] PHP Notice:  Undefined index: id_daerah in /home/u6416981/public_html/API/login_calon.php on line 47
+[12-Mar-2018 10:46:50 UTC] PHP Notice:  Undefined index: id_daerah in /home/u6416981/public_html/API/login_calon.php on line 47
+[12-Mar-2018 10:55:52 UTC] PHP Notice:  Undefined index: id_daerah in /home/u6416981/public_html/API/login_calon.php on line 47
+[12-Mar-2018 11:20:20 UTC] PHP Notice:  Undefined index: id_daerah in /home/u6416981/public_html/API/login_calon.php on line 47
+[12-Mar-2018 12:32:01 UTC] PHP Notice:  Undefined index: id_daerah in /home/u6416981/public_html/API/login_calon.php on line 47
+[18-Mar-2018 03:26:35 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/u6416981/public_html/API/index.php on line 7
+[18-Mar-2018 03:26:39 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/u6416981/public_html/API/koneksi.php on line 7
+[18-Mar-2018 03:48:37 UTC] PHP Notice:  Undefined index: id_daerah in /home/u6416981/public_html/API/login_calon.php on line 47
+[18-Mar-2018 03:52:14 UTC] PHP Notice:  Undefined index: id_daerah in /home/u6416981/public_html/API/login_calon.php on line 47
+[18-Mar-2018 04:31:33 UTC] PHP Notice:  Undefined index: id_daerah in /home/u6416981/public_html/API/login_calon.php on line 47
+[18-Mar-2018 04:55:06 UTC] PHP Notice:  Undefined index: id_daerah in /home/u6416981/public_html/API/login_calon.php on line 47
+[18-Mar-2018 23:58:39 UTC] PHP Notice:  Undefined index: id_daerah in /home/u6416981/public_html/API/login_calon.php on line 47
+[19-Mar-2018 00:06:11 UTC] PHP Notice:  Undefined index: id_daerah in /home/u6416981/public_html/API/login_calon.php on line 47
+[21-Mar-2018 02:39:56 UTC] PHP Notice:  Undefined index: id_daerah in /home/u6416981/public_html/API/login_calon.php on line 47
+[21-Mar-2018 21:48:34 UTC] PHP Notice:  Undefined index: id_daerah in /home/u6416981/public_html/API/login_calon.php on line 47
+[22-Mar-2018 03:08:35 UTC] PHP Notice:  Undefined index: id_daerah in /home/u6416981/public_html/API/login_calon.php on line 47
+[22-Mar-2018 07:35:08 UTC] PHP Notice:  Undefined index: id_daerah in /home/u6416981/public_html/API/login_calon.php on line 47
+[23-Mar-2018 00:10:42 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/u6416981/public_html/API/login_calon.php on line 25
+[23-Mar-2018 00:11:04 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/u6416981/public_html/API/login_calon.php on line 25
+[23-Mar-2018 02:34:18 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/u6416981/public_html/API/login_calon.php on line 25
+[23-Mar-2018 02:34:30 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/u6416981/public_html/API/login_calon.php on line 25
+[23-Mar-2018 02:34:38 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/u6416981/public_html/API/login_calon.php on line 25
+[23-Mar-2018 02:35:23 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/u6416981/public_html/API/login_calon.php on line 25
+[23-Mar-2018 06:16:06 UTC] PHP Notice:  Undefined index: id_daerah in /home/u6416981/public_html/API/login_calon.php on line 47
+[23-Mar-2018 16:42:37 UTC] PHP Notice:  Undefined index: id_daerah in /home/u6416981/public_html/API/login_calon.php on line 47
+[24-Mar-2018 12:32:24 UTC] PHP Notice:  Undefined index: id_daerah in /home/u6416981/public_html/API/login_calon.php on line 47
+[26-Mar-2018 02:25:00 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/u6416981/public_html/API/index.php on line 7
+[26-Mar-2018 02:25:45 UTC] PHP Notice:  Undefined index: id_pascagub in /home/u6416981/public_html/API/lihat_kegiatan_pascagub.php on line 2
+[26-Mar-2018 02:25:45 UTC] PHP Notice:  Undefined index: id_pascagub in /home/u6416981/public_html/API/lihat_kegiatan_pascagub.php on line 2
+[26-Mar-2018 02:25:48 UTC] PHP Notice:  Undefined index: id_pascagub in /home/u6416981/public_html/API/lihat_kegiatan_pascagub.php on line 2
+[26-Mar-2018 02:25:50 UTC] PHP Notice:  Undefined index: id_pascagub in /home/u6416981/public_html/API/lihat_kegiatan_pascagub.php on line 2
+[26-Mar-2018 02:38:52 UTC] PHP Notice:  Undefined index: id_daerah in /home/u6416981/public_html/API/login_calon.php on line 47
+[26-Mar-2018 05:24:58 UTC] PHP Notice:  Undefined index: id_daerah in /home/u6416981/public_html/API/login_calon.php on line 47
+[26-Mar-2018 05:24:58 UTC] PHP Notice:  Undefined index: id_daerah in /home/u6416981/public_html/API/login_calon.php on line 47
+[26-Mar-2018 05:38:59 UTC] PHP Notice:  Undefined index: id_daerah in /home/u6416981/public_html/API/login_calon.php on line 47
+[26-Mar-2018 06:00:01 UTC] PHP Notice:  Undefined index: id_daerah in /home/u6416981/public_html/API/login_calon.php on line 47
+[26-Mar-2018 06:48:07 UTC] PHP Notice:  Undefined index: id_daerah in /home/u6416981/public_html/API/login_calon.php on line 47
+[26-Mar-2018 07:03:03 UTC] PHP Notice:  Undefined index: id_daerah in /home/u6416981/public_html/API/login_calon.php on line 47
+[26-Mar-2018 12:43:04 UTC] PHP Notice:  Undefined index: id_daerah in /home/u6416981/public_html/API/login_calon.php on line 47
+[26-Mar-2018 14:03:17 UTC] PHP Notice:  Undefined index: id_tps in /home/u6416981/public_html/API/submit_suara_service.php on line 8
+[26-Mar-2018 14:03:17 UTC] PHP Notice:  Undefined index: NIK in /home/u6416981/public_html/API/submit_suara_service.php on line 9
+[26-Mar-2018 23:42:01 UTC] PHP Notice:  Undefined index: id_daerah in /home/u6416981/public_html/API/login_calon.php on line 47
+[27-Mar-2018 08:21:49 UTC] PHP Notice:  Undefined index: id_daerah in /home/u6416981/public_html/API/login_calon.php on line 47
+[06-Apr-2018 07:09:15 UTC] PHP Notice:  Undefined index: id_daerah in /home/u6416981/public_html/API/login_calon.php on line 47
+[07-Apr-2018 03:40:20 UTC] PHP Notice:  Undefined index: id_daerah in /home/u6416981/public_html/API/login_calon.php on line 47
+[07-Apr-2018 03:40:40 UTC] PHP Notice:  Undefined index: id_daerah in /home/u6416981/public_html/API/login_calon.php on line 47
+[09-Apr-2018 12:32:02 UTC] PHP Notice:  Undefined index: username in /home/u6416981/public_html/API/login_calon.php on line 12
+[09-Apr-2018 12:32:02 UTC] PHP Notice:  Undefined index: password in /home/u6416981/public_html/API/login_calon.php on line 13
+[11-Apr-2018 13:25:12 UTC] PHP Notice:  Undefined index: id_daerah in /home/u6416981/public_html/API/login_calon.php on line 47
+[13-Apr-2018 14:13:26 UTC] PHP Notice:  Undefined index: id_daerah in /home/u6416981/public_html/API/login_calon.php on line 47
+[15-Apr-2018 02:10:41 UTC] PHP Notice:  Undefined index: id_daerah in /home/u6416981/public_html/API/login_calon.php on line 47
+[17-Apr-2018 18:54:12 UTC] PHP Notice:  Undefined index: username in /home/u6416981/public_html/API/login_calon.php on line 12
+[17-Apr-2018 18:54:12 UTC] PHP Notice:  Undefined index: password in /home/u6416981/public_html/API/login_calon.php on line 13
+[19-Apr-2018 11:08:36 UTC] PHP Notice:  Undefined index: id_daerah in /home/u6416981/public_html/API/login_calon.php on line 47
+[22-Apr-2018 12:54:12 UTC] PHP Notice:  Undefined index: id_daerah in /home/u6416981/public_html/API/login_calon.php on line 47
+[22-Apr-2018 14:43:12 UTC] PHP Notice:  Undefined index: id_daerah in /home/u6416981/public_html/API/login_calon.php on line 47
+[22-Apr-2018 14:57:13 UTC] PHP Notice:  Undefined index: id_daerah in /home/u6416981/public_html/API/login_calon.php on line 47
+[22-Apr-2018 14:57:54 UTC] PHP Notice:  Undefined index: id_daerah in /home/u6416981/public_html/API/login_calon.php on line 47
+[22-Apr-2018 16:39:28 UTC] PHP Notice:  Undefined index: id_daerah in /home/u6416981/public_html/API/login_calon.php on line 47
+[22-Apr-2018 16:41:47 UTC] PHP Notice:  Undefined index: id_daerah in /home/u6416981/public_html/API/login_calon.php on line 47
+[22-Apr-2018 16:54:08 UTC] PHP Notice:  Undefined index: id_daerah in /home/u6416981/public_html/API/login_calon.php on line 47
+[23-Apr-2018 06:49:20 UTC] PHP Notice:  Undefined index: id_daerah in /home/u6416981/public_html/API/login_calon.php on line 47
+[23-Apr-2018 21:06:04 UTC] PHP Notice:  Undefined index: username in /home/u6416981/public_html/API/login_calon.php on line 12
+[23-Apr-2018 21:06:05 UTC] PHP Notice:  Undefined index: password in /home/u6416981/public_html/API/login_calon.php on line 13
+[29-Apr-2018 19:30:45 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/topp3988/public_html/sibcad/API/koneksi.php on line 7
+[29-Apr-2018 19:30:45 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/topp3988/public_html/sibcad/API/lihat_kabkota.php on line 5
+[29-Apr-2018 19:30:45 Asia/Jakarta] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/topp3988/public_html/sibcad/API/lihat_kabkota.php on line 21
+[29-Apr-2018 19:31:11 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/topp3988/public_html/sibcad/API/koneksi.php on line 7
+[29-Apr-2018 19:31:11 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/topp3988/public_html/sibcad/API/lihat_kegiatan_provinsi.php on line 5
+[29-Apr-2018 19:31:11 Asia/Jakarta] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/topp3988/public_html/sibcad/API/lihat_kegiatan_provinsi.php on line 23
+[29-Apr-2018 19:31:24 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/topp3988/public_html/sibcad/API/koneksi.php on line 7
+[29-Apr-2018 19:31:24 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/topp3988/public_html/sibcad/API/lihat_kegiatan_provinsi.php on line 5
+[29-Apr-2018 19:31:24 Asia/Jakarta] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/topp3988/public_html/sibcad/API/lihat_kegiatan_provinsi.php on line 23
+[29-Apr-2018 22:08:08 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/topp3988/public_html/sibcad/API/index.php on line 7
+[08-May-2018 20:28:32 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/topp3988/public_html/sibcad/API/index.php on line 7
+[22-May-2018 06:51:39 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/u1760910/public_html/sibcad/API/index.php on line 7
+[25-May-2018 04:34:26 UTC] PHP Notice:  Undefined index: id_daerah in /home/u1760910/public_html/sibcad/API/login_calon.php on line 47
+[25-May-2018 04:47:26 UTC] PHP Notice:  Undefined index: id_daerah in /home/u1760910/public_html/sibcad/API/login_calon.php on line 47
